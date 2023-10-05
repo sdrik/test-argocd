@@ -1,4 +1,5 @@
-replicaCount: 1
+# change the replica count to 3 here
+replicaCount: 3
 image:
   repository: sdrik/test-argocd
   pullPolicy: IfNotPresent
